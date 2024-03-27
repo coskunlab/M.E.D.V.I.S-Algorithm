@@ -1,0 +1,1 @@
+Point estimates and confidence intervals of species significantly associated with predicted probability of earthwork presence, with an overall significance level of 5%. Positive species are more likely to occur and be abundant where predicted probability of earthwork presence is high, whereas negative species are less likely to occur and be abundant there.

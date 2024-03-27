@@ -1,0 +1,1 @@
+The experimental conditions are the same as in Fig. 2. Phase portraits, or phase-space trajectories, are constructed from extended time series of the oscillating product flows. Transitions to higher cycles are caused whenever the H2/CO ratio is increased. The red arrows indicate the direction of time evolution.

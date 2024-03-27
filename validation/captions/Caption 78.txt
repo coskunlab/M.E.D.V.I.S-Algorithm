@@ -1,0 +1,1 @@
+(A and B) The evolution of SF probability (A) and full dislocation density (B) from the topmost surface to the core of GDS and CG (tensile strained 3% and 40%) samples at 293 K and 77 K, determined by the extended convolutional multiple whole profile (eCMWP) fitting analysis on SXRD spectrums. SF probabilities in the 3% deformed GDS sample at 293 K were too low to be extracted.
