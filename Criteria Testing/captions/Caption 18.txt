@@ -1,0 +1,3 @@
+Figure 6. Distinct cell types exhibit heterogeneous gene neighborhood networks
+
+Gene neighborhood networks of an HBM (A), an HUC (B), and an HCH (C). Cells present heterogeneous marker enrichment and connectivity between patches. The same marker pairs exhibit different connections in different patches.

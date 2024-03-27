@@ -1,0 +1,19 @@
+Figure 1. Spatially resolved gene neighborhood network analysis pipeline reveals gene proximity relationship in a single cell
+
+(A) Visualization of MERFISH data in fibroblast. Each dot in the scatterplot is a detected RNA transcript.
+
+(B) Patch separation of transcripts using the Leiden clustering algorithm.
+
+(C) Patch correlation map of the presented fibroblast. The heatmap includes 130 genes labeled in the published dataset.
+
+(D) A portion of the patch correlation heatmap.
+
+(E) Visualization of gene pairs with positive and negative correlations. FBN2-FLNA, PRPF8-SRRM2, and SRRM2-MKI67 all have positive correlations, while MALAT1-FLNA, PRPF8-NUMA1, and THBS1-MALAT1 all have negative correlations. Gene pairs with positive correlations localize in similar subcellular positions, while gene pairs with negative correlations localize in distinct subcellular positions.
+
+(F) Local neighborhoods in a patch near the nucleus. The scatterplot indicates the RNA location in the patch. A local neighborhood is highlighted by the connection between the center RNA and its neighbors.
+
+(G) Gene neighborhood networks of the patch shown in (F). The edge color indicates the proximity score between the gene pair, and the size of the node indicates the enrichment of the gene in the patch.
+
+(H) A subpart of the gene neighborhood networks.
+
+(I) Visualization of gene pairs with positive and negative proximity scores. TEAD1-LRP1, IGF2R-FBN2, and FLNA-FBN2 all have positive proximity scores, while TNC-FLNC, PRPF8-COL5A1, and THBS1-MALAT1 all have negative correlations.

@@ -1,0 +1,9 @@
+Supplementary Figure 3. Pearson’s correlation of markers in BM MSCs (n=7).
+(a) Correlation values of the total intensity of 5 markers (ATF6, DAPI, GOLPH4, Nucleolin,
+TOM20) in BM MSCs were calculated per marker for each cell using Pearson’s Correlation and
+plotted as heatmaps. Pearson’s correlation values range from -1 (blue) to +1 (red).
+(b) Average (top) and standard deviation (bottom) of Pearson’s correlation of intensity per marker
+across all BM MSCs for 5 markers (ATF6, DAPI, GOLPH4, Nucleolin, TOM20). The color bar
+ranges from -1 (blue) to +1 (red). Standard deviation values are close to 0 while average values
+agree well with every single cell in (a), indicating a more uniform organelle pattern among BM
+MSCs. 

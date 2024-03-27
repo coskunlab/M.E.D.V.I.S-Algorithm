@@ -1,0 +1,9 @@
+Figure 7. Patch correlation and gene neighborhood network achieve higher separability than single-cell RNA count to distinguish HBM, HUC, and HCH cell populations
+
+(A) Cell clustering and cell types based on single-cell RNA count visualized on a t-SNE plot. The count of each RNA type per cell was used as a feature for t-SNE and clustering of the HUCs (n = 121), HBMs (n = 237), and HCHs (n = 247).
+
+(B) Cell clustering and cell types based on patch correlations visualized on a t-SNE. Marker pairwise correlations between patches of the same cell were used as features for t-SNE and clustering of HUC, HBM, and HCH.
+
+(C) Cell clustering and cell types based on network variability visualized on a t-SNE. The mean and standard deviation of connection between marker pairs were used as features for t-SNE and clustering of HUC, HBM, and HCH.
+
+(D–F) Comparison of classification of HBM, HUC, and HCH using RNA count (D), patch correlation (E), and neighborhood network variability (F). All cells in the same cluster are predicted to be the same cell type as the majority of cell types in the cluster. The predicted cell type was then compared with the true cell type using confusion matrices. Classification based on patch correlation and network variability is less likely to predict HUCs and HCHs as HBMs, and improved classification sensitivity and specificity of HUCs.

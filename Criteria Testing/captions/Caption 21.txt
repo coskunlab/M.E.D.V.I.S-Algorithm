@@ -1,0 +1,13 @@
+Supplementary Figure 1. Rapid multiplexed immunofluorescence for high-dimensional
+spatial profiling in single cells.
+(a) Timeline for rapid multiplexed immunofluorescence staining. Each cycle consists of up to 3
+antibodies plus DAPI. In between subsequent cycles, the antibodies were bleached and the same
+sample was re-blocked and stained with a new set of antibodies. Inset shows the difference between
+direct and indirect IF. While direct staining is a single-step process, indirect staining is a two-step
+requiring a primary antibody and a secondary antibody and is, therefore, more time-consuming.
+The duration of each step is labeled in green. Created with BioRender.com.
+(b) 10-plex visualization of organelle markers in BM MSCs. On the right, zoomed-in regions are
+shown to illustrate regions of organelle colocalization and overlap of organelle marker presence.
+Row 1: HSP60 & TOM20, Row 2: Beta Tubulin & Phalloidin, Row 3: GOLPH4 & WGA, Row
+4: Sortilin & Nucleolin, Row 5: ATF6 & Concanavalin A. The third column indicates the merge
+of the two markers in the first two columns. 

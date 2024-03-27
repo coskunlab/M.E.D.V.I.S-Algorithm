@@ -1,0 +1,14 @@
+Supplementary Figure 11. Conversion of 2D spatial coordinates to 1D spatial distributions
+for KS Hypothesis Testing.
+(a) Example illustration of 2D cell focusing on two arbitrary protein markers: green and magenta.
+The black star denotes the cell’s center of mass computed from the cell segmentation mask.
+Created with BioRender.com.
+(b) Calculated distances from each protein (green, magenta) pixel to the center of mass resulting
+in 1D histograms of spatial distances. KS Hypothesis Testing determines if the two signals (green
+and magenta) come from significantly different underlying distributions. Created with
+BioRender.com.
+(c) Example BM cell 1 with significantly (p-value ≤ 0.0001) different underlying distributions for
+the target mitochondria organelle labeled by HSP60 (magenta) and TOM20 (green) protein
+markers. See Fig. 4d for complete cells.
+(d) Example BM cell 2 with no significant statistical difference in mitochondria spatial expression
+between HSP60 (magenta) and TOM20 (green) protein markers. See Fig. 4d for complete cells. 

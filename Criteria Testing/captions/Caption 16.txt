@@ -1,0 +1,9 @@
+Figure 4. Patch correlation and gene neighborhood network variability achieve better separation of cell types than single-cell RNA count
+
+(A) Cell type and clustering based on single-cell gene count on a t-SNE plot. The counts of each RNA type per cell were used as features for t-SNE and clustering of fibroblast (n = 53) and U2-OS (n = 53).
+
+(B) Cell type and clustering based on patch correlation on a t-SNE plot. Marker pairwise correlations between patches of the same cell were used as features for UMAP and clustering of fibroblast and U2-OS.
+
+(C) Cell type and clustering based on network variability visualized on a t-SNE. The mean and standard deviation of proximity score between marker pairs were used as features for t-SNE and clustering of fibroblast and U2-OS.
+
+(D–F) Comparison of classification of fibroblasts and U2-OS using RNA count, patch correlation, and neighborhood network variability. All cells in the same cluster are predicted to be the same cell type as the majority of cell types in the cluster. The predicted cell type was then compared with the true cell type using confusion matrices. RNA count, patch correlation, and neighborhood network variability all classified the two cell types with high accuracy.

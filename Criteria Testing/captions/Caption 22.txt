@@ -1,0 +1,11 @@
+Supplementary Figure 2. 10-plex Organelle mapping in mesenchymal stem cells.
+(a) Visualization of organelle markers in single cells from BM MSCs. Each row corresponds to a
+unique cell and each image displays two organelle markers. Column 1: ATF6 (green) &
+Concanavalin A (magenta), Column 2: Beta Tubulin (green) & Phalloidin (magenta), Column 3:
+GOLPH4 (green) & Sortilin (magenta), Column 4: HSP60 (green) & TOM20 (magenta), Column
+5: Nucleolin (green) & WGA (magenta). All scale bars 10 µm.
+(b) Visualization of organelle markers in single cells from UC MSCs. Each row corresponds to a
+unique cell and each image displays two organelle markers. Column 1: ATF6 (green) &
+Concanavalin A (magenta), Column 2: Beta Tubulin (green) & Phalloidin (magenta), Column 3:
+GOLPH4 (green) & Sortilin (magenta), Column 4: HSP60 (green) & TOM20 (magenta), Column
+5: Nucleolin (green) & WGA (magenta). All scale bars 10 µm. 

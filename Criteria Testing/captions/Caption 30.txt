@@ -1,0 +1,10 @@
+Supplementary Figure 10. Segmentation of single cells.
+(a) Segmentation of single cells using Phalloidin as the cell mask (top row) and DAPI as the
+nuclear mask (bottom row). Column 1: raw signal from Phalloidin or DAPI, Column 2: cell or
+nuclear mask label image from the raw signal, Column 3: cell or nuclear segmentation boundary
+example from the masks, Column 4: resulting segmented cell and its nucleus.
+(b) Comparing the area obtained by segmenting single cells (n=10) using two markers - Phalloidin
+(green, row 1) and WGA (magenta, row 2). The bottom bar graph shows the sum intensities of 10
+image regions. The Mann-Whitney test shows no statistical significance between the areas of the
+two markers (p=0.85), indicating that the area distributions are the same for the two markers and
+either of them can be used for cell segmentation. All scale bars 10 µm.

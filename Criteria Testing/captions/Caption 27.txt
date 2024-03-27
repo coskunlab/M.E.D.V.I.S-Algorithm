@@ -1,0 +1,9 @@
+Supplementary Figure 7. VR-based visualization of organelle imaging data in MSCs.
+Visualization of organelle protein images (10 markers) for one UC MSC in ConfocalVR. For each
+cell, the top shows the RGB image of the combined markers, while the bottom two show a single
+marker image in either red or green with DAPI. Different organelle markers are illustrated across
+the columns. Merged images are shown in the first row. Column 1: ATF6 (middle row) &
+Concanavalin A (bottom row), Column 2: Beta Tubulin (middle row) & Nucleolin (bottom row),
+Column 3: GOLPH4 (middle row) & Sortilin (bottom row), Column 4: Phalloidin (middle row) &
+WGA (bottom row), Column 5: TOM20 (middle row) & HSP60 (bottom row). Handset toggle
+switches used to interact with the image are shown on the left and right sides. 

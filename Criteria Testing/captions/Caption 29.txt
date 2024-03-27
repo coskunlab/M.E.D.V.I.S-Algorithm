@@ -1,0 +1,14 @@
+Supplementary Figure 9. Validation of bleaching protocol for segmentation markers
+Phalloidin and WGA.
+(a) Images of before staining (left column), staining (middle column), and after bleaching (right
+column) of Phalloidin (yellow). Before and after bleaching images confirm signal addition and
+removal before the next staining cycle. All scale bars 10 µm. On the right, the intensity sum of
+ten regions before staining, staining, and after bleaching is quantified to validate the effect of the
+fluorophore bleaching process. Before (red) and after bleach (blue) show comparable intensities
+while marker (green) illustrates approximately 2-3-fold higher intensity.
+(b) Images of before staining (left column), staining (middle column), and after bleaching (right
+column) of WGA (red). Before and after bleaching images confirm signal addition and removal
+before the next staining cycle. All scale bars 10 µm. On the right, the intensity sum of ten regions
+before staining, staining, and after bleaching is quantified to validate the effect of the fluorophore
+bleaching process. Before (red) and after bleach (blue) show comparable intensities while marker
+(green) illustrates approximately 2-7-fold higher intensity.

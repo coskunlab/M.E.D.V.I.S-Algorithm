@@ -1,0 +1,12 @@
+FIG. 5. Local single cell neighborhood associations in retinal organoids and tissues.
+(A) Cell neighborhood associations within retinal organoids. A single organoid section is shown (left column). Example of zoomed cell
+regions (middle column) with corresponding five-neighbor heatmap (right column). The top row shows a more layered organoid example,
+and the bottom row shows a less organized sample. Right column heatmaps illustrate the number of five nearest cell neighbors for each cell
+phenotype. Red indicates more neighbors of that phenotype, whereas blue indicates fewer neighbors. In more layered regions, MG and rods
+exhibit the most segregation among cell types. For less organized regions, the heatmap shows more mixing among cell types except for HC.
+(B) Cell neighborhood associations within retinal tissues. A single tissue section is shown (left column). Example of zoomed cell regions
+(middle column) with corresponding five-neighbor heatmap (right column) for layered sample (top row) and less organization sample
+(bottom row). Right column heatmaps quantify the count of five nearest cell neighbors for each cell phenotype. Red indicates more
+neighbors of that phenotype, whereas blue indicates fewer neighbors. The top row illustrates a more layered sample, whereas the bottom
+row shows a more disconnected sample. Rods are the thickest (most segregated) layer in the top row, whereas there exists more segregation
+of BC and rods in the disorganized bottom row.

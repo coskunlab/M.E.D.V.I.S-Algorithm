@@ -1,0 +1,8 @@
+FIG. 3. Visualization and quantification of all retinal organoids and tissues.
+Colored dots represent single cells in (A) retinal organoid and (B) tissue samples. Single cell phenotypes include rods (yellow), cones (purple),
+BC (orange), MG (blue), RGC (green), HC (pink), and AC (red). In general, rods consist of the thickest layer and organoid layers are more
+pronounced than their retinal counterparts. Imperfections in layered structure, observed in organoids and tissues, may arise from sectioning.
+(C) Organoid and (D) tissue single cell patterns. The top graph quantifies the relative cell abundance of each phenotype. The bottom row
+graph shows the relative distance to the elliptical fit for each cell. Single cell phenotypes are colored in the same manner as (A) and (B).
+Overall, organoids possess a larger fraction of rods and MGs while tissues possess a larger fraction of rods and BCs. Organoids exhibit more
+spatial variability due to their thicker layers than their tissue counterparts.

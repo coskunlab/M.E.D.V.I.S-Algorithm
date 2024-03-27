@@ -1,0 +1,15 @@
+Figure 3. SpaGNN reveals subcellular gene neighborhood network variability
+
+(A) Two patches in a fibroblast. The nearest neighborhood networks of the two patches are shown in (C).
+
+(B) Two patches in a U2-OS cell.
+
+(C) Gene neighborhood networks of the two patches shown in (A) between THBS1, FBN2, and SRRM2. THBS1-FBN2 has a positive proximity score in the left patch and a negative proximity score in the right patch.
+
+(D) Gene neighborhood networks of the two patches shown in (B) between THBS1, FBN2, and SRRM2. THBS1-FBN2 has a negative proximity score in the left patch and a positive proximity score in the right patch. Furthermore, THBS1-SRRM2 has a lower proximity score in the right patch than in the left patch.
+
+(E) Visualization of THBS1, FBN2, and SRRM2 in the two patches shown in (A). The scatterplot shows the position of transcripts, and the edge indicates detected neighbors.
+
+(F) Visualization of THBS1, FBN2, and SRRM2 in the two patches shown in (B).
+
+(G) Distribution of proximity scores of THBS1-FBN2, THBS1-SRRM2, and FBN2-SRRM2 among all patches of fibroblast and U2-OS. The proximity scores in the fibroblast shown are higher than in the U2-OS cell shown in this figure for all three pairs of genes. p values: ns: 0.05 < p <= 1.00, ∗: 0.01 < p <= 0.05, ∗∗∗∗: p <= 0.0001

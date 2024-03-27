@@ -1,0 +1,11 @@
+Figure 5. SpaGNN analysis reveals subcellular gene proximity relationships in HBM, HUC, and HCHs
+
+(A) Multiplexed RNA profiles of HUC, HBM, and HCH. The data were collected using HCR-based SeqFISH.
+
+(B) Leiden clustering of positions of RNA molecules in an HUC cell. The presented cell contains 57 patches.
+
+(C) Mean correlation map of HUCs (n = 121). COL1A1 shows negative correlations with GAPDH and ACTb. EEF2 shows positive correlations with GADH and ACTb.
+
+(D) Local neighborhoods in a patch near the nucleus and corresponding gene neighborhood network. The scatterplot indicates the transcripts’ location in the patch. A local neighborhood is highlighted by the connection between the center transcript and its neighbors.
+
+(E) Local neighborhoods in a patch away from the nucleus and the corresponding gene neighborhood network. The patch shows a low concentration of COL1A1.

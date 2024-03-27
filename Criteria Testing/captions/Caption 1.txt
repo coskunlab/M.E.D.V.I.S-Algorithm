@@ -1,0 +1,14 @@
+FIG. 1. Emerging 3D organoid applications in regenerative and personalized medicine.
+(A) Patient-derived stem cells can be reprogrammed in situ to form organoids, 3D models of organ structure, and development. When
+combined with spatial transcriptomic labeling, gene and signaling networks in single cells are observed in 3D space during organogenesis.
+(B) Case study example of a retinal organoid model resembling native eye function. The spatial organization of gene expression and cell
+phenotypes informs how organoids compare with native tissue counterparts in terms of molecular, structural, and functional aspects.
+(C) Physiologically relevant organoid characteristics including different assays to measure the molecular, structural, and functional aspects.
+Molecular aspects typically involve single cell phenotype profiling (e.g., ganglions, rods, cones, other photoreceptors) with RNA sequencing, for
+example. Structural characteristics describe how faithfully organoids recapitulate native organ structure, which is imperative in studying organ
+development and biology. Structural assays include spatial omics, or image-based, techniques such as MERFISH, IF, and IHC. These techniques
+highlight single molecules (e.g., RNA, protein) within single cells. Functional characteristics describe the organoid’s ability to execute its
+corresponding organ function. For example, retinal organoids should ideally convert light to electrical signals to propagate an image to the
+brain. To accomplish this, photoreceptors should hyperpolarize in response to color or light, which is how organisms perceive images. Created
+with BioRender.com. 3D, three-dimensional; AC, amacrine cell; BC, bipolar cell; HC, horizontal cell; IF, immunofluorescence; IHC,
+immunohistochemistry; MC, Mu¨ller cell; MERFISH, multiplexed error-robust fluorescence in situ hybridization; RGC, retinal ganglion cell.

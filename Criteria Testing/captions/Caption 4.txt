@@ -1,0 +1,18 @@
+FIG. 4. Spatial quantification of single cell
+differences between retina organoid and
+tissue.
+(A) Relative phenotypic abundances among all
+organoid (green) and tissue (blue) samples. Rods are
+the most dominant of both types, whereas ACs, BCs,
+and RGCs are comparable. Organoids exhibited less
+sample variability (more uniform abundances) than
+tissues.
+(B) Single cell phenotype presence in retina organoid
+(green) and tissue (blue). Normalized distances of cells
+to elliptical fit from Figure 2B in descending order
+mimicking the ideal retinal layer structure. Statistical
+comparison of the spatial elliptical arrangement using
+one-way ANOVA with post hoc Tukey test (*p-value
+<0.05, **p-value <0.01, ***p-value <0.001, ****p-value
+<0.0001). Only significance between adjacent retinal
+layers is shown. ANOVA, analysis of variance.

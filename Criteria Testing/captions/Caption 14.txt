@@ -1,0 +1,13 @@
+Figure 2. Patch-level analysis reveals subcellular heterogeneity in spatial transcriptomic profiles
+
+(A) Transcript location and patch correlation of genes in fibroblast. The scatterplot shows the location of transcripts of the labeled genes. The heatmap shows the patch correlation between the labeled genes.
+
+(B) Transcript location and patch correlation of genes in U2-OS. The scatterplot shows the location of transcripts of the labeled genes. The heatmap shows the patch correlation between the labeled genes. Several differences in patch correlation between the two cells are shown, such as PRPF8-IGF2R, TPR-LRP1, and PRPF8-PRKCA.
+
+(C) SRRM2 and PRPF8 visualization in fibroblast and U2-OS. The gene pair presents similar patch correlations in both cells.
+
+(D) PRPF8 and IGF2R visualization in fibroblast and U2-OS. The gene pair presents opposite patch correlations.
+
+(E) Boxplot of patch correlations between SRRM2-PRPF8 and PRPF8-IGF2R in fibroblast and U2-OS. p values: ∗∗: 0.001 < p < 0.01, ∗∗∗∗: p <= 0.0001
+
+We further investigated the variation of subcellular gene neighboring relationships. The proximity score, which quantifies the likelihood of two genes being neighbors of each other, varies across the same cell (Figures 3A and 3B). The networks between the same set of genes, THBS1, FBN2, and SRRM2, show variation across the same cell (Figures 3C and 3D). The neighboring relationships between transcripts were also highlighted (Figures 3E and 3F). The variation of proximity scores across patches allows the analysis of the mean and standard deviation of proximity scores across the same cell (Figure 3G). The mean proximity scores between THBS1-FBN2, THBS1-SRRM2, and FBN2-SRRM2 of the fibroblast are higher than in the U2-OS cell.

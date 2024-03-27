@@ -1,0 +1,12 @@
+Supplementary Figure 6. Pixel overlap colocalization of markers in UC MSCs (n=7).
+(a) Pixel overlap colocalization of 5 markers (ATF6, DAPI, GOLPH4, Nucleolin, TOM20) in UC
+MSCs per marker for each cell (n=7) plotted as heatmaps. The color bar ranges from 0 (blue) to
+0.76 (red). TOM20 and ATF6 show high colocalization in all cells except UC cells 4 and 5,
+suggesting crosstalk between mitochondria and ER in most UC MSCs. Nucleolin and DAPI also
+exhibit high colocalization, indicating some segregation of nuclear and cytosolic organelles.
+(b) Average (top) and standard deviation (bottom) of pixel overlap colocalization per marker
+across all BM MSCs for 5 markers (ATF6, DAPI, GOLPH4, Nucleolin, TOM20). The color bar
+ranges from 0 (blue) to 0.76 (red) for average and 0 (blue) to 1 (red) for standard deviation. The
+highest average colocalization exists between DAPI & Nucleolin, and ATF6 & TOM20. Thus,
+many UC MSCs exhibit crosstalk between mitochondria and ER while nuclear organelles are more
+separated from cytosolic ones. The low standard deviation shows most cells behave similarly. 

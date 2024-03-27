@@ -1,0 +1,11 @@
+FIG. 2. Comparison case study of retinal organoid and tissue.
+(A) (Top row) Retinal organoids, derived from human-induced pluripotent stem cells, form 3D retinal tissue in culture.41 Example image
+renders of single cell phenotypes including rods (yellow), cones (purple), BC (orange), MG (blue), RGC (green), HC (pink), and AC (red).
+(Bottom row) Mouse retina tissue MERFISH data illustrate spatial gene expression in high throughput.40 Example image renders of single cell
+phenotypes include rods (yellow), cones (purple), BC (orange), MG (blue), RGC (green), HC (pink), and AC (red).
+(B) Spatial comparison of retinal organoid (top row) and tissue (bottom row) transcriptomic data at the cell phenotype level. Retina structure
+was defined as an elliptical fit (green) on representative single cells (black dots) from each 2D section. Similarly, the organoid fit is shown in
+green as well. These fits were treated as landmarks to describe the structural fidelity of the samples. The right graph shows each cell’s
+distance to the elliptical fit for both the organoid and tissue sample. A two-sided Mann–Whitney U test of statistical significance was used to
+compare the same cell types from the organoid and tissue sample (*p-value <0.05, **p-value <0.01, ***p-value <0.001, ****p-value <0.0001).
+Created with BioRender.com. 2D, two-dimensional.

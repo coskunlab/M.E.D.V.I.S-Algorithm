@@ -1,0 +1,12 @@
+Supplementary Figure 5. Pixel overlap colocalization of markers in BM MSCs (n=7).
+(a) Pixel overlap colocalization of 5 markers (ATF6, DAPI, GOLPH4, Nucleolin, TOM20) in BM
+MSCs per marker for each cell (n=7) plotted as heatmaps. The color bar ranges from 0 (blue) to
+0.25 (red) and indicates the fraction of the cell occupied by the marker pair. BM cells 1, 2, and 4
+exhibit slightly different organelle patterns than BM cells 3, 5, 6, and 7. DAPI & Nucleolin, ATF6
+& TOM20, ATF6 & GOLPH4, and TOM20 & GOLPH4 exhibit the highest pixel overlap
+colocalizations.
+(b) Average (top) and standard deviation (bottom) of pixel overlap colocalization per marker
+across all BM MSCs for 5 markers (ATF6, DAPI, GOLPH4, Nucleolin, TOM20). The color bar
+ranges from 0 (blue) to 0.25 (red). DAPI & Nucleolin, ATF6 & TOM20, ATF6 & GOLPH4, and
+TOM20 & GOLPH4 exhibit the highest pixel overlap colocalizations. Standard deviations are
+mostly low, indicating less single-cell variation. 
