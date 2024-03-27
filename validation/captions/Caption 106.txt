@@ -1,0 +1,10 @@
+. (A and B) Observed far-field
+intensity (A) and S3 (B) distributions for a linearly polarized pump (10Pth). The intensity is fitted by
+a radial Gaussian function with a FWHM Dk = 0.050k0, equal to the diffraction limit of 1.0l0/D (D being
+the diameter of the core). (C) Observed emission spectra against pump power. The spectra (fitted
+by bi-Lorentzian functions) are normalized by the pump power and shifted vertically for clarity.
+(D) Measured power-dependent L-L curves and linewidths of the observed cavity resonance. Solid
+curves are fitted by using the laser rate equations with different b-factors. The gray shadow indicates
+the laser threshold Pth = 0.14 mW (17.8 W/cm2
+). Inset shows the intensity evolution of lasing emission
+and SE in a linear scale near Pth

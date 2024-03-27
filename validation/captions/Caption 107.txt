@@ -1,0 +1,18 @@
+. (A) Observed far-field emission distribution
+under s− pump with a power of 0.22 mW. Inset shows the intensity profiles of the |s−
+/−kRi (or |s−
+/+kRi)
+emission spots with a FWHM of 0.050k0 (or 0.062k0). (B) Corresponding emission spectra of the two spots
+from (A) and a significant amplification of DR from ~2.8% of SE background to ~40% of cavity emission
+(green line). (C) Intensity (L-L) and linewidth evolutions of |s−
+/−kRi and |s−
+/+kRi emission against s−
+pump power. Inset shows L-L curves in linear scale. The DR (green squares) and VPA (black circles) are
+also plotted to show three distinct regions below, near, and above the thresholds. The slight discrepancy between
+experiments and fitting is attributed to the high sensitivity of the lasing intensity around the thresholds. The
+thresholds PðcoÞ
+th and PðcrÞ
+th are 0.11 mW (14.0 W/cm2
+) and 0.18 mW (22.9 W/cm2
+), respectively. (D to F) Same
+measurements as in (A) to (C) but under s+ pump.

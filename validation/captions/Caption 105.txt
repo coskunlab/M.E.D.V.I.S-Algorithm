@@ -1,0 +1,14 @@
+. (A) Schematic
+of the laser consisting of a Berry phase PhC cavity and a WS2 monolayer. Inset:
+(i and ii) Top view of the PhC lattice in cladding and core region, respectively
+[see details in section 3.5 in (21)]; (iii) selective excitation of −Ke (or +Ke) valley
+excitons for surface-emitting lasing with the same spin. (B) Microscopic
+image of a cavity integrated with a WS2 monolayer encapsulated by a polymethyl
+methacrylate layer. (C) Enlarged scanning electron microscopic image of a
+fabricated cavity. The elliptical holes in the core are shown in red. (D and F) Valleyaddressable spin lasing under s− (or s+
+) pump. The dominant −Ke (or +Ke) valley
+excitons are coupled to the PhC spin mode at −Kp (or +Kp) valley, promoting
+a spin lasing emission |±kRi that bypasses the intervalley scattering. (E and
+G) Simulated band structure of a Berry phase PhC, where the lowest band is
+color coded to show the near-field optical spin (Stokes parameter S3). The PhC spin
+mode at the −Kp (or +Kp) valley is further routed into free space following skR.
